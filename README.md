@@ -9,11 +9,6 @@
 </div>
 
 
-<p align="center">
-
-<div align=center>
-	<img src=assets/figure1.jpg/>
-</div>
 
 ## Pre-trained Models
 
